@@ -1,0 +1,6 @@
+package timus.task_15;
+
+public class Main {
+    public static void main(String[] args) {
+    }
+}
